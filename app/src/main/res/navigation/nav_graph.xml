@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/characterFragment">
+
+    <fragment
+        android:id="@+id/characterFragment"
+        android:name="com.ultimatelifesimulator.ui.character.CharacterFragment"
+        android:label="@string/nav_character" />
+
+    <fragment
+        android:id="@+id/worldFragment"
+        android:name="com.ultimatelifesimulator.ui.world.WorldFragment"
+        android:label="@string/nav_world" />
+
+    <fragment
+        android:id="@+id/relationshipsFragment"
+        android:name="com.ultimatelifesimulator.ui.relationships.RelationshipsFragment"
+        android:label="@string/nav_relationships" />
+
+    <fragment
+        android:id="@+id/healthFragment"
+        android:name="com.ultimatelifesimulator.ui.health.HealthFragment"
+        android:label="@string/nav_health" />
+
+    <fragment
+        android:id="@+id/inventoryFragment"
+        android:name="com.ultimatelifesimulator.ui.inventory.InventoryFragment"
+        android:label="@string/nav_inventory" />
+
+</navigation>

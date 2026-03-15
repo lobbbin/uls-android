@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ultimate Life Simulator</string>
+
+    <!-- Navigation -->
+    <string name="nav_character">Character</string>
+    <string name="nav_world">World</string>
+    <string name="nav_relationships">Relations</string>
+    <string name="nav_health">Health</string>
+    <string name="nav_inventory">Inventory</string>
+    <string name="nav_events">Events</string>
+    <string name="nav_life_path">Life Path</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Character -->
+    <string name="character_title">Character</string>
+    <string name="stats_title">Stats</string>
+    <string name="skills_title">Skills</string>
+    <string name="traits_title">Traits</string>
+    <string name="background_title">Background</string>
+
+    <!-- Stats -->
+    <string name="stat_health">Health</string>
+    <string name="stat_energy">Energy</string>
+    <string name="stat_stress">Stress</string>
+    <string name="stat_charisma">Charisma</string>
+    <string name="stat_intellect">Intellect</string>
+    <string name="stat_cunning">Cunning</string>
+    <string name="stat_violence">Violence</string>
+    <string name="stat_stealth">Stealth</string>
+    <string name="stat_perception">Perception</string>
+    <string name="stat_willpower">Willpower</string>
+
+    <!-- Secondary Stats -->
+    <string name="stat_reputation">Reputation</string>
+    <string name="stat_wealth">Wealth</string>
+    <string name="stat_piety">Piety</string>
+    <string name="stat_heat">Heat</string>
+    <string name="stat_addiction">Addiction</string>
+    <string name="stat_street_cred">Street Cred</string>
+    <string name="stat_noble_standing">Noble Standing</string>
+    <string name="stat_political_capital">Political Capital</string>
+
+    <!-- World -->
+    <string name="world_title">World</string>
+    <string name="locations_title">Locations</string>
+    <string name="factions_title">Factions</string>
+    <string name="calendar_title">Calendar</string>
+    <string name="economy_title">Economy</string>
+
+    <!-- Relationships -->
+    <string name="relationships_title">Relationships</string>
+    <string name="family_title">Family</string>
+    <string name="friends_title">Friends</string>
+    <string name="rivals_title">Rivals</string>
+    <string name="romantic_title">Romantic</string>
+    <string name="professional_title">Professional</string>
+
+    <!-- Health -->
+    <string name="health_title">Health</string>
+    <string name="physical_health">Physical Health</string>
+    <string name="mental_health">Mental Health</string>
+    <string name="injuries_title">Injuries</string>
+    <string name="illnesses_title">Illnesses</string>
+    <string name="treatments_title">Treatments</string>
+
+    <!-- Inventory -->
+    <string name="inventory_title">Inventory</string>
+    <string name="items_title">Items</string>
+    <string name="assets_title">Assets</string>
+    <string name="debt_title">Debt</string>
+    <string name="currency_format">$%,.2f</string>
+
+    <!-- Events -->
+    <string name="events_title">Events</string>
+    <string name="random_event">Random Event</string>
+    <string name="story_event">Story Event</string>
+    <string name="life_event">Life Event</string>
+
+    <!-- Life Paths -->
+    <string name="life_path_title">Life Path</string>
+    <string name="royalty_path">Royalty</string>
+    <string name="politics_path">Politics</string>
+    <string name="crime_path">Crime</string>
+    <string name="business_path">Business</string>
+    <string name="career_path">Career</string>
+
+    <!-- Actions -->
+    <string name="action_continue">Continue</string>
+    <string name="action_choice">Choose</string>
+    <string name="action_rest">Rest</string>
+    <string name="action_travel">Travel</string>
+    <string name="action_work">Work</string>
+    <string name="action_train">Train</string>
+    <string name="action_interact">Interact</string>
+    <string name="action_save">Save</string>
+    <string name="action_load">Load</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Time -->
+    <string name="day_format">Day %d</string>
+    <string name="time_format">%02d:%02d</string>
+    <string name="age_format">Age: %d</string>
+    <string name="year_format">Year %d</string>
+
+    <!-- Game -->
+    <string name="new_game">New Game</string>
+    <string name="continue_game">Continue</string>
+    <string name="game_over">Game Over</string>
+    <string name="you_died">You have died.</string>
+    <string name="congratulations">Congratulations!</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="sound_enabled">Sound Enabled</string>
+    <string name="notifications_enabled">Notifications Enabled</string>
+    <string name="auto_save_enabled">Auto Save Enabled</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="text_size">Text Size</string>
+    <string name="difficulty">Difficulty</string>
+</resources>

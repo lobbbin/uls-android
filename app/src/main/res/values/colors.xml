@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ultimate Life Simulator</string>
+
+    <!-- Colors -->
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FF5722</color>
+    <color name="accent_dark">#E64A19</color>
+
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#B00020</color>
+
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_surface">#212121</color>
+    <color name="on_background">#212121</color>
+
+    <color name="stat_excellent">#4CAF50</color>
+    <color name="stat_good">#8BC34A</color>
+    <color name="stat_average">#FFC107</color>
+    <color name="stat_poor">#FF9800</color>
+    <color name="stat_critical">#F44336</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+
+    <color name="divider">#E0E0E0</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <color name="positive">#4CAF50</color>
+    <color name="negative">#F44336</color>
+    <color name="neutral">#9E9E9E</color>
+
+    <color name="royalty">#9C27B0</color>
+    <color name="politics">#3F51B5</color>
+    <color name="crime">#F44336</color>
+    <color name="business">#009688</color>
+    <color name="career">#FF9800</color>
+</resources>
